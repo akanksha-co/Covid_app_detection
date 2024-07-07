@@ -3,5 +3,3 @@ gunicorn==19.9.0
 requests==2.22.0
 tensorflow-cpu==2.7.0
 Pillow==9.0.0
-# ye framework/lib hai jo purane ho gaye hai ab ye available nahi hai google per thats why
-# we are using virtual env for running all thoes file with latest framework/lib.
