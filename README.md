@@ -1,0 +1,1 @@
+It seems like you might be looking for information about an app related to COVID-19 detection. There have been several apps developed during the pandemic to help with detecting and tracking COVID-19. These apps typically use a combination of self-reported symptoms, contact tracing, and sometimes integration with healthcare systems for testing and results.
